@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: A-RingPet
+  m_EditorClassIdentifier: 
+  storyText: 'You begin petting the ring. Softly. Admiring it''s craftsmanship and
+    wonder.
+
+
+    It''s yours! and no one else''s! no one can take it from you now if you keep it
+    close!
+
+
+    "Prrreecious!!" you sneer.
+
+
+    1. Return.'
+  nextStates:
+  - {fileID: 11400000, guid: 777ee263a841649a5a2532ee9bc8640e, type: 2}

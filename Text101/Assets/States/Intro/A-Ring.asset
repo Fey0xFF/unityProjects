@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: A-Ring
+  m_EditorClassIdentifier: 
+  storyText: "Clever you are pressing an option that wasn't there!\n\nLooking under
+    the dresser you notice a ring on the ground. It's golden shape is perfectly circular
+    and strikingly enticing to pick up.\n\nYou stoop down and grab the one ring, palming
+    it in your hand. Peering down at it...\n\nWhat do you do?\n \n1. Slip it on!\n2.
+    Pet it.\n3. Return back to the real story."
+  nextStates:
+  - {fileID: 11400000, guid: b52bc61baf356482d832f934101f62a5, type: 2}
+  - {fileID: 11400000, guid: 6607af9a5a470431ca4d732c0926d9c7, type: 2}
+  - {fileID: 11400000, guid: d3c4c4059fc7b4ef5a41a19f60c1b5fc, type: 2}

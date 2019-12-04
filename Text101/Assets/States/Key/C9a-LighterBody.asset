@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: C9a-LighterBody
+  m_EditorClassIdentifier: 
+  storyText: "Approaching the figure you stoop down to see it's hand.\n\nReaching
+    toward the hand it suddenly grips your arm! You try to pull away but it's grip
+    is solidly locked on to you with unnatural strength. It's head twists around.
+    The upper portion of it's face is all bandaged.\n\nYou're suddenly filled with
+    a sense of dread and feel burdened by a heavy weight inside your chest. \n\nYou
+    withdraw into a flashback. You see a familiar face, a loved one by your account.
+    The two of you are laughing and you're apologizing over something small. Suddenly
+    you're taken to a violent storm on a beach. Your hands are submered into the water
+    gripping something tightly.\n\nYour eyes open once more and you come to. The hand
+    is no longer gripping your arm, instead it is  holding a lighter. You reach for
+    the lighter and pocked it. \n\nA breeze stirs up and most of the figure blows
+    away into it.\n \n1. Return.\n"
+  nextStates:
+  - {fileID: 11400000, guid: de9da0e20b7da44fdb545ace4b0ef5af, type: 2}

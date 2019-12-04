@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: C5c-Keylook
+  m_EditorClassIdentifier: 
+  storyText: "Turning on the gas to the burner you use the lighter to get a flame
+    going.\n\n\"Got it!\" you scream in excitement! The strength of the flame should
+    be enough to read the key inscription now.\n\nHolding the key above the flame
+    you can see the inscription lift up in visibility by the gentle glow of the flame.
+    \n\n-It surrounded your cage...\n\n\"What does that mean!?\" you furiously question
+    to yourself. Defeated yet still with some strength you mutter \"What madness is
+    this place...\" \n\nYou pause in thought for some time reflecting on what you've
+    experienced so far. You begin to shutter your eyelids open and closed trying to
+    recollect whatever memory you once had and how you actually got it. The time passes
+    as you press your mind for answers when suddenly a long drawn out groaning sound
+    is heard behind you!\n\n1. Turn around."
+  nextStates:
+  - {fileID: 11400000, guid: ccc2e1fbcca204185b05525dd8f420e3, type: 2}

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: B4a-HatchNorthLocked
+  m_EditorClassIdentifier: 
+  storyText: 'This room appears to have been damaged by a small fire in the corner.
+    A slightly charred smell is about.
+
+
+    More hospital beds are strung across the sides of the room covered by curtains.
+    Bandages are scattered around the room. You can hear a loud generator in the distance
+    whirring.
+
+
+    There''s a door marked North Wing that looks quite sturdy and fairly new compared
+    to the surroundings.
+
+
+    A door marked East Wing seems to be where the burn originated from.
+
+
+    1. To the North Wing.
+
+    2. To the East Wing.
+
+    3. To the Medical Corridor.'
+  nextStates:
+  - {fileID: 11400000, guid: a0259c3681db64609a766b1bf6ee4094, type: 2}
+  - {fileID: 11400000, guid: f111c96c3300d4bdbbbb52c998c68c7b, type: 2}
+  - {fileID: 11400000, guid: e5cdbae2961c843ff8d9224782fd4b94, type: 2}

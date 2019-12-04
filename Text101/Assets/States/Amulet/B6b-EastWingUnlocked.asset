@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: B6b-EastWingUnlocked
+  m_EditorClassIdentifier: 
+  storyText: 'Looking around the room now it appears different. More floorboards than
+    you can remember are now exposed and are displaying the eerie metal grating beneath.
+    You can see the same black depths from before now behind it. The wallpaper now
+    catching different lights as you look around almost appears to be peeling slowly.
+
+
+    You see the door you came in from once more. "I don''t know what''s going on anymore
+    but I need to get moving... now." you claim out loud with purpose.
+
+
+    What do you do?
+
+
+    1. Examine the scratches again.
+
+    2. Read the note again.
+
+    3. To the Main Wing.'
+  nextStates:
+  - {fileID: 11400000, guid: 2d6dfc610289d4678b350bf822d6159f, type: 2}
+  - {fileID: 11400000, guid: 6d69925dfd8b24096a66a2fc4f000338, type: 2}
+  - {fileID: 11400000, guid: e067c1b02810644d1a11a08411e8e9f3, type: 2}

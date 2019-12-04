@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: B9-Puzzle
+  m_EditorClassIdentifier: 
+  storyText: "Bursting open the door you charge in not knowing exactly what it is
+    you'll face but move toward the last sound you heard.\n\nA large dark and foul
+    smelling figure has it's back to you still tying something down. You charge at
+    it taking note briefly of it's state. The clothes on it look familiar but are
+    tattered and torn, bloody and spoiled.  You leap toward it taking it down by surprise!\n\nWrestling
+    the entity down it puts up a fight. Grunting and snorting and groaning with gutteral
+    cries. You feel it's hands reach back to you pounding at your sides and it's nails
+    digging into you. You manage to get your arms around it's neck and absolve it
+    slowly from breathing. The figure begins to gurgle and with all it's might manages
+    release some of your pressure and rams you with it's back toward the wall.\n\nYou
+    suddenly feel a loss of strength due to whatever it was you struck being charged
+    against the wall. Something pierced your side. You drop down and lean back against
+    the wall.\n\nThe figure turns around revealing it's face to you. \n\n\"No... impossible!\"
+    you shout!\n\nIt's you. Twisted, and warped in a grotesque manner but it's you.
+    You feel sick just looking at it.\n\nYour doppelganger begins motioning toward
+    you teething, sneering, and contorting it's limbs in unimaginable horror.\n\nSuddenly
+    you recall some of clues you've come across. \"The name! confront it!\" you gasp
+    tasting blood in your mouth from your wound trying to start with the first letter!\n\n[PRESS
+    THE FIRST LETTER OF IT'S REAL NAME]"
+  nextStates:
+  - {fileID: 11400000, guid: 4651d6be1abea4a96aeba13588111bca, type: 2}
+  - {fileID: 11400000, guid: ff65a4fc73a924f83a5445d8e405163d, type: 2}

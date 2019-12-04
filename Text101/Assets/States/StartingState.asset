@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: "Your eyes open sharply. You\u2019re laying flat on your stomach with
+    limbs out like a white chalk tracing of your final resting place.\n\n\u201CWhere
+    am I?\u201D you think to yourself. You remain still as if to keep your change
+    in conscious state unnoticed by your foreign surroundings.\n\nThe last thing you
+    remember is running down an alley and looking quickly back for a moment at the
+    sound of a sudden high pitch constant frequency. Your vision faded to black and
+    all sounds immediately drowned out. \n\nThe memory of the alley is faint. It was
+    right off the street painted over in reflective neon glows which had lit your
+    pursuit. Air conditioners were exposed over tile flooring through time-worn darkened
+    areas that were meant to be forgotten about.\n\nYou were pursuing what appeared
+    to be a shadowy figure that moved away seemingly in anticipation of your next
+    steps while not looking back. \n\nThis was the make or break moment in your case
+    that was meant to answer all questions about who you are, what you were, and possibly
+    who you could become. \u201CHow did I let it get away!?\u201D you scream in your
+    mind with defeat. \x03\n\n1. Continue...\n"
+  nextStates:
+  - {fileID: 11400000, guid: 3143deec0500a40319c334e98a84ab93, type: 2}

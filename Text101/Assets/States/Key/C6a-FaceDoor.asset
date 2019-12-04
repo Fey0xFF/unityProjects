@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: C6a-FaceDoor
+  m_EditorClassIdentifier: 
+  storyText: 'Approaching the door you reach for one of the large pull ring handles
+    on it.
+
+
+    Suddenly in reaching for it, the center of the door contorts and concaves inward
+    slightly, as if a gaping mouth was beginning to form. The shifting metal layers
+    almost groan in sound.
+
+
+    What do you do?
+
+
+    1. Continue opening the door.
+
+    2. Return.'
+  nextStates:
+  - {fileID: 11400000, guid: 78623640dcdf946c4ac56263a7ebcf91, type: 2}
+  - {fileID: 11400000, guid: 434a3463fdb514dd6bb3fcf709147003, type: 2}

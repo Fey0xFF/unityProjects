@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: C10-ThroughMouth
+  m_EditorClassIdentifier: 
+  storyText: "You enter the narrow opening and trust your footing to carry you through
+    the path. The noises you once heard have silenced. Navigating the darkness one
+    step at a time with your hands to your sides you feel nothing but cold metallic
+    walls. The ground sounds hard and hollow. You hear nothing but the sound of your
+    breath, it sounds heavier than normal as if under a humid downpour and you notice
+    slight perspiration forming on your skin.\n\nContinue down one step at a time
+    you suddenly feel something catch your foot, entangling your balance and causing
+    you to trip forward! You begin kicking off what appears to feel like a stiff hand,
+    though it's still too dark to be sure. After several kicks you break free and
+    press your hands to the flooring to rise up and rush to the room, though you can't
+    help but feel there being something cold, viscous, and foul smelling on the grounds
+    that your hands touched.\n\nStammering toward the light you can now see as you're
+    getting closer it's an opening just enough to crawl through. You pick up in pace
+    and see the light catching the walls and path you're in. As the surfaces catch
+    the light you can see they're peeling downward on their own, and appear to be
+    like tattered leather, worn, beige and brown with streaks of red pouring out.
+    \n\nThe unsightly walls increase your heart rate as you continue to rush to the
+    opening. Suddenly you hear heavy footsteps running behind you at a pace you can't
+    beat, grunting, snorting, and dragging something metallic across the ground causing
+    rusty screaches to pierce through the path.\n\nYou're near the opening now and
+    you leap through it encountering a blinding light and silence...\n\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: b07402bc6424e4f6081a525d9b35ab31, type: 2}

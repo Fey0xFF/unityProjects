@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: CX-Nothing
+  m_EditorClassIdentifier: 
+  storyText: 'You take a step back observing your surroundings. "No." you let out
+    defiantly. "None of this is real. It''s a trick! I don''t believe any of it you
+    hear me!? whatever it is you have me under, wake me up now and confront me!!"
+    you shout with all your might.
+
+
+    For a moment or two you hear nothing when suddenly you notice a page flip backward
+    in the book. A second later, another page. Then several. The book pages are flipping
+    back faster and faster as if a great wind entered the room!
+
+
+    The toys and objects around the room begin to swirl around. You can''t observe
+    where this force is coming from but it feels as if a small whirlwind is being
+    conjured around the room!
+
+
+    With greater and greater force it twists and spins. You lower yourself to the
+    ground under the table but it''s no good. The walls and objects are now being
+    torn and lifted up and away! the roof comes crashing in on you. The weight of
+    everything is too heavy. Everything fades to black and all sound disappears.
+
+
+    1. Game over.'
+  nextStates:
+  - {fileID: 11400000, guid: d0cd7a67fb41a40279950e5eeddfcdc6, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: C2-ExamineKey
+  m_EditorClassIdentifier: 
+  storyText: 'You raise the key up and try to catch some of the reflection of light
+    on it to see if anything can be made from it.
+
+
+    Try as you might there just isn''t enough light. It''s too dark to read anything,
+    though you''re certain you can sort of see lettering on it.
+
+
+    1. Return.'
+  nextStates:
+  - {fileID: 11400000, guid: fa3bbc5928e674b87b5b891535b6c2bb, type: 2}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: C4a-BurnWard
+  m_EditorClassIdentifier: 
+  storyText: "This room is torn between two different states. It is a small garden
+    with a skylight above that is mostly covered with only a few shards of light entering.
+    The grass has grown stunted with the lack of light yet surprisingly a fairly sturdy
+    tree without leaves rests in the middle. You think to try reading the key against
+    the light but it isn't strong enough to catch any reflection of the scribed text
+    on it.\n\nThere is a small portable burner that you would take camping atop a
+    table that looks like it was set for a meal but never was met by those intended
+    to receive it. \n\nOn one side of the room you note a door ornamented with design
+    that at a glance could appear to have facial characteristics to it. There are
+    two large pull ring handles to the top and a large wreath about the center with
+    jagged features on the inside. \"Strange...\" you say to yourself squinting a
+    look at it.\n\nAcross the face like door is another door barred up that reads
+    \"Burn Ward\". You suspect this area is something of an outdoor relief area to
+    the burn ward just beyond it for it's poor inhabitants.\n\nThe only sounds you've
+    heard so far have been your hollow footsteps on sorrowful looking grounds. \n\nWhat
+    do you do?\n \n1. Ignite the burner to read the key.\n2. To the face door."
+  nextStates:
+  - {fileID: 11400000, guid: bc5c23fee040b4d71a70bd5b793a0d83, type: 2}
+  - {fileID: 11400000, guid: 09f67437859554849890af78a7689785, type: 2}

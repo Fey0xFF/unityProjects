@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: StartingStateWithAmulet
+  m_EditorClassIdentifier: 
+  storyText: "Your eyes open sharply. You\u2019re laying flat on your stomach with
+    limbs out like a white chalk tracing of your final resting place.\n\u201CWhere
+    am I?\u201D you think to yourself. You remain still as if to keep your change
+    in conscious state unnoticed by your foreign surroundings.\nThe last thing you
+    remember is running down an alley and looking quickly back for a moment at the
+    sound of a sudden high pitch constant frequency. Your vision faded to black and
+    all sounds immediately drowned out. \nThe memory of the alley is faint. It was
+    right off the street painted over in reflective neon glows which had lit your
+    pursuit. Air conditioners were exposed over tile flooring through time-worn darkened
+    areas that were meant to be forgotten about.\nYou were pursuing what appeared
+    to be a shadowy figure that moved away seemingly in anticipation of your next
+    steps while not looking back. \nThis was the make or break moment in your case
+    that was meant to answer all questions about who you are, what you were, and possibly
+    who you could become. \u201CHow did I let it get away!?\u201D you scream in your
+    mind with defeat. \nAs you consider your options you note your body is colder
+    than normal. You can only see the metallic wall in front of you and the grating
+    floor beneath you. You can see through the grating but it\u2019s black as if you\u2019re
+    suspended in a cage.\n\nWhat do you do?\n\n1. Close your eyes a little longer
+    and wait to see what happens.\n2. Push yourself up slowly, stand up and look around.\n3.
+    Call out for help.\n"
+  nextStates:
+  - {fileID: 11400000, guid: c4b9b3092ca734f7f8cf78c9e84790d2, type: 2}
+  - {fileID: 11400000, guid: c4b9b3092ca734f7f8cf78c9e84790d2, type: 2}
+  - {fileID: 11400000, guid: c4b9b3092ca734f7f8cf78c9e84790d2, type: 2}
+  inventory: []
+  amuletStates: []
+  keyStates: []
+  ringStates: []

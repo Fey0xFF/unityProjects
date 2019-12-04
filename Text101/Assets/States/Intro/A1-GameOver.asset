@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: A1-GameOver
+  m_EditorClassIdentifier: 
+  storyText: "You close your eyes gently remaining still. It's quiety peaceful.\n\nFor
+    a moment or two nothing happens until you hear an infrequent drip coming closer
+    to your face. Shortly after a wretched smell begins to take hold of your senses.\n\nOpening
+    your eyes you're startled in horror seeing a ghastly porcelain white face with
+    a jaw dropped bearing rows of razer sharp teeth with a sneering smile. It's eyes
+    are bleeding and dripping down it's cheeks of cracked skin. It's motionless but
+    clearly staring into your eyes and is no further than a few inches from your face.\n\nYou
+    try to move but cannot. You're paralyzed in fear. You draw your eyes to the side
+    and see a shadowy black hand reach out of the darkness and grip your throat. \n\nYou
+    gasp and soon lose sight of everything...\n\n1. Game over."
+  nextStates:
+  - {fileID: 11400000, guid: 3143deec0500a40319c334e98a84ab93, type: 2}

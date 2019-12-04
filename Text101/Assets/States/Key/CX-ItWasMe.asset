@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: CX-ItWasMe
+  m_EditorClassIdentifier: 
+  storyText: "You lift your fingers slowly across the page inking your thoughts.\n\n-It
+    was me!\n\nAs you lift your hands away, the book slams shut with such force that
+    it gains some lift. Nothing happens for several moments when you start to hear
+    some crumbling behind you. Turning around you notice the wall starting to shake
+    ever so slightly as if a heavy vibration is behind it.\n\nYou step back looking
+    to see what will happen when you notice your footsteps are hitting the ground
+    harder. Looking down you see the flooring now that familiar grated metal again.
+    Startled you fall back into the wall and see the room taking shape twisting it's
+    surfaces inside out into terrible images. The walls begin to peel and the piercing
+    sound of a motor belt snapping can be heard behind the wall when it suddenly crashes
+    open! a large rusted rod pierces through following by a large heavy decaying hand
+    feeling it's way around the opening!\n\nTurning around the room you notice a rodded
+    door behind you. You leap towards it but it's locked! \"The key!\" you scream.
+    Finding a slot for it you place the key inside and twist. \n\n-click!\n\nYou open
+    the door and run further into the descent of madness.\n\n1. Continue."
+  nextStates:
+  - {fileID: 11400000, guid: d0cd7a67fb41a40279950e5eeddfcdc6, type: 2}

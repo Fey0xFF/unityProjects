@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: B7b-ScratchNew
+  m_EditorClassIdentifier: 
+  storyText: 'The scratches now resemble only one word...
+
+
+    -LIAR!
+
+
+    1. Return.'
+  nextStates:
+  - {fileID: 11400000, guid: bab0e7bf1e14040ae835a647de025da3, type: 2}

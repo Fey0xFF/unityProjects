@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: C4c-BurnWard
+  m_EditorClassIdentifier: 
+  storyText: "The burn ward is eerily the same. Silent. Still. \n\nWhat do you do?\n\n1.
+    Ignite the fireplace to read the key.\n2. Check the face door again.\n3. To the
+    burn ward."
+  nextStates:
+  - {fileID: 11400000, guid: 7e031724801e146c29dcab38864b094f, type: 2}
+  - {fileID: 11400000, guid: b783cf20a04e643fc87e99646ac075d2, type: 2}
+  - {fileID: 11400000, guid: de9da0e20b7da44fdb545ace4b0ef5af, type: 2}

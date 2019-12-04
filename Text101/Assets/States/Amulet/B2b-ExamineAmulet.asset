@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: B2b-ExamineAmulet
+  m_EditorClassIdentifier: 
+  storyText: "The amulet is old in heritage by your count. Quite tarnished by time,
+    yet not very damaged or used. Strangely a little water looks like it seeped out
+    from inside during the fall. \n\nThere is something barely legible scribed across
+    the back and just enough lighting in here to catch the edges and bear words:\n\n-A.
+    Almes\n\n\"The name is familiar in my memory yet it doesn't feel quite right...\"
+    you ponder for a moment. It also looks as if the was another name etched underneath
+    it, overwritten by \"A. Almes\" now.\n\nDaringly you speak to yourself \"I must
+    have had this all along and dropped the key in the fall. I must work my way out
+    now!\"\n \n1. Put the amulet away."
+  nextStates:
+  - {fileID: 11400000, guid: 168c5acd22fc949d39650666d956ce98, type: 2}

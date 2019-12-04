@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: B6c-EastWingUnlocked
+  m_EditorClassIdentifier: 
+  storyText: '"Whatever is happening is getting worse. I need to go. I''m not sure
+    what is real right now..." you speak under your breath.
+
+
+    The demonic symbol that etched the floor appears to have a soft glow to it now,
+    being lit by a source unknown.
+
+
+    What do you do?
+
+
+    1. Examine the scratches again.
+
+    2. Read the note again.
+
+    3. Back from where you came.'
+  nextStates:
+  - {fileID: 11400000, guid: 2d6dfc610289d4678b350bf822d6159f, type: 2}
+  - {fileID: 11400000, guid: 6d69925dfd8b24096a66a2fc4f000338, type: 2}
+  - {fileID: 11400000, guid: e067c1b02810644d1a11a08411e8e9f3, type: 2}

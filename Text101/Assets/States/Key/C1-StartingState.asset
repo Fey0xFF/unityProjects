@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: C1-StartingState
+  m_EditorClassIdentifier: 
+  storyText: 'The room is very dimly lit with light seeping in through the smallest
+    of edges on the windows around the room. The windows themselves are boarded up.
+    Around the room you can just make out some of the objects, a row of chairs, a
+    check in counter and two doors. Above the doors, one reads "North Ward" and the
+    other "South Ward". There was once another doorway with a revolving door that
+    appears to take you outside but it''s completely chained up and locked.
+
+
+    It appears to be a hospital environment yet certainly abandoned without use for
+    some time. The floor has papers and various objects scattered as if the last inhabitants
+    left in a hurry.
+
+
+    You recall to yourself you''re still in posession of the key.
+
+
+    What do you do?
+
+
+    1. Examine the key.
+
+    2. To the North Ward.
+
+    3. To the South Ward.'
+  nextStates:
+  - {fileID: 11400000, guid: 7c0f652eabea7430fac9b5622652d991, type: 2}
+  - {fileID: 11400000, guid: 42e65d36bacbb479aa098f965b91c543, type: 2}
+  - {fileID: 11400000, guid: 434a3463fdb514dd6bb3fcf709147003, type: 2}

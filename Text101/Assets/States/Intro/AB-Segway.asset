@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: AB-Segway
+  m_EditorClassIdentifier: 
+  storyText: "Your eyes struggle to open and falter closed several times before coming
+    to.\n\nYou look around noting your surroundings. You're laying down on a worn
+    black sofa, next to you are some chairs, a door is across from you with a pane
+    of discolored glass obstructing what is inside it. Around the room you can see
+    various medical equipment and devices. You're clearly in a medical lab or hospital
+    of some kind, though, seemingly abandoned by the looks of the worn wallpaper,
+    and broken upholstery.\n\n\"No better place to be after taking such a fall!\"
+    you casually suggest to yourself trying to ease your nerves. \n\nYou press yourself
+    up and look about the room. \"How did I get here? At least this area looks like
+    I'm awake now and not in some nightmare cage\" you recant nervously. \n\n\"A terrible
+    dream or induced coma I'm sure after getting knocked out in that alley...\" you
+    think you to yourself.\n\n\"Hello!?\" you shout. No response.\n\nPressing yourself
+    up off the couch you motion over to the door. It's unlocked.\n\nOpening the door
+    you step out. The door shuts behind you and you hear it lock. The thought comes
+    to your mind \"Not any good to go back in there at this point.\" \n\n1. Continue...\n"
+  nextStates:
+  - {fileID: 11400000, guid: e5cdbae2961c843ff8d9224782fd4b94, type: 2}

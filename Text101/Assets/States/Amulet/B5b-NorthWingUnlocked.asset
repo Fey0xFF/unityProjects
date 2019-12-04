@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: B5b-NorthWingUnlocked
+  m_EditorClassIdentifier: 
+  storyText: "Approaching the door you can hear pacing back and forth beyond it. Heavy
+    steps, walking in circles. Every now and then you can hear sniffing and what sounds
+    like drawers and cabinets opening with paper and various items being tossed around.
+    A foul stench is eminating from beyond the door.\n\nYou silently step forward
+    as deftly as you can and test the doorknob. It turns. You feel you can open it
+    and continue and perhaps get the take on whatever is behind it. \n\n\"What options
+    do I really have at this point!?\" you contend to yourself in despair. \"I need
+    to find him. If it's the last thing I do! I need to know what happened!\" you
+    claim to yourself in your mind. \n\nYou muster up some courage after considering
+    that you may not be able to return if you enter...\n\nWhat do you do?\n\n1. Wait
+    for the right moment and burst open the door. [no turning back from here, don't
+    press anything after]\n2. Return."
+  nextStates:
+  - {fileID: 11400000, guid: a0a910b4acce448c18c854bdddb3cb31, type: 2}
+  - {fileID: 11400000, guid: e067c1b02810644d1a11a08411e8e9f3, type: 2}

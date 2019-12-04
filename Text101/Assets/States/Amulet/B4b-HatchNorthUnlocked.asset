@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: B4b-HatchNorthUnlocked
+  m_EditorClassIdentifier: 
+  storyText: 'The Main Wing no longer looks the same... the generator sound have become
+    louder, exposed grating has now appeared in this room along with wallpaper peeling
+    off. The burned smell has carried here and is terrible to inhale.
+
+
+    Every so often you swear you can hear footsteps in the distance, and doors creaking...
+
+
+    1. To the North Wing.
+
+    2. To the East Wing.
+
+    3. To the Medical Corridor.'
+  nextStates:
+  - {fileID: 11400000, guid: 47e928b8c93c540c388b745b99ff1607, type: 2}
+  - {fileID: 11400000, guid: bab0e7bf1e14040ae835a647de025da3, type: 2}
+  - {fileID: 11400000, guid: 168c5acd22fc949d39650666d956ce98, type: 2}

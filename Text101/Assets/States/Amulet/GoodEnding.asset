@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: GoodEnding
+  m_EditorClassIdentifier: 
+  storyText: '"S..." you begin to say.
+
+
+    "Sam" you get out further! "Samael!" You decry out loud! uncertain of what it
+    is but knowing what it could be...
+
+
+    The doppelganger steps back slowly. It begins to laugh a gargled laugh.
+
+
+    With a fiery rage you announce "You''re not me! you''re a copy, and nothing more!"
+
+
+    The monstrosity''s face and neck begin to shake violently. It''s body fidgeting.
+    With a guttural roar it''s arms stretch out and the room begins to rupture upwards.
+    Walls shake and various spots around the ground begin to shatter and fall into
+    blackness. The flooring behind starts to give away and to usher yourself forward.
+
+
+    With great speed and anger, the doppelganger starts rushing towards you. Though,
+    it''s face seems to bear it''s true form now, a hideous sight it is, but it''s
+    no longer you! It leaps in the air to jump on you. Turning to the side bracing
+    for impact you feel the amulet slip out of your shirt. There''s a sharp light
+    coming from inside it now and it beams upwards blinding the beast as it''s coming
+    your way. It loses it''s sight of you and goes off course slipping past you tumbling
+    over the edge of the flooring. It tries to catch the edge with it''s clawing fingers
+    but only manages to graze your arm instead tearing your flesh as it falls and
+    leaving you wincing at the pain clenching your jaw.
+
+
+    You turn to the side further to see the beast falling into the depths as it booms
+    a mighty guttural roar at you.
+
+
+    Seemingly as everything continues to fall around you, you are at peace. Things
+    feel right inside you now. The physical pain begins to dissipate and the terrors
+    you witnessed seem so long ago.
+
+
+    Your vision begins to fade to white and all sounds go silent.
+
+
+    You then feel your senses faintly coming to but you''re not able to visualize
+    your surroundings. Everything is white as if a great light is covering all things.
+    You hear a gentle soft feminine voice to your ear "It''s alright now. Open your
+    eyes dear..."
+
+
+    1. Continue.'
+  nextStates:
+  - {fileID: 11400000, guid: 81b06d03ea80749ad93e239303e86573, type: 2}

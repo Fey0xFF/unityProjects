@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: C4d-BurnWard
+  m_EditorClassIdentifier: 
+  storyText: 'The gardened area is now better lit from the light above.
+
+
+    The face like door''s surface looks like leathered worn skin, and it''s wreath
+    like mouth is torn back and peeled open, tied and pinned back by chains.The walls
+    around it are partially black and charred and chips of the surface are falling
+    slowly to the floor. The tree now looks withered and has a noose tied hanging
+    on one end that is slowly swaying...
+
+
+    You notice the door to the burn ward has been sealed shut once again.
+
+
+    What do you do?
+
+
+    1. Ignite the burner.
+
+    2. Approach the face like door.'
+  nextStates:
+  - {fileID: 11400000, guid: d0fd3f2c3e6184f05bcada38ab5826d3, type: 2}
+  - {fileID: 11400000, guid: 6809cabdb12834b3c8e1ab787871b956, type: 2}

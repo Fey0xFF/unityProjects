@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: B1a-StartingState
+  m_EditorClassIdentifier: 
+  storyText: 'You''re in a long hallway. There''s a sign across one of the halls labelled
+    "Medical Corridor", with a carved "H" next to it. "What does that mean?" you think
+    to yourself.
+
+
+    Hospital beds lay along the sides with various equipment rigged to them. The locked
+    door you came in from sits at one end and there is a door at the other end ajar
+    with a sign above saying "Main Wing".
+
+
+    What do you do?
+
+
+    1. Examine the amulet.
+
+    2. Open the amulet.
+
+    3. Go through the door to the Main Wing.'
+  nextStates:
+  - {fileID: 11400000, guid: 10cce003e89c147daacd71c7bae93852, type: 2}
+  - {fileID: 11400000, guid: 96f2d75ca8ddd4156bb54f59fe66ff96, type: 2}
+  - {fileID: 11400000, guid: eaa8a83f0015c4afb95832b7c6965777, type: 2}

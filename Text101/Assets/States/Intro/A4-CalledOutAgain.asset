@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: A4-CalledOutAgain
+  m_EditorClassIdentifier: 
+  storyText: '"Enough! answer me!" you call out defiantly.
+
+
+    Your hearing incrementally begins to be drowned out by what sounds like radio
+    static.
+
+
+    The static begins to lower and you hear a soft yet familiar feminine voice "It''s
+    okay. I know everything now. Close your eyes and rest. It will all make sense
+    soon."
+
+
+    What do you do?
+
+
+    1. Listen to the comforting voice and close your eyes.
+
+    2. Get up and look around.'
+  nextStates:
+  - {fileID: 11400000, guid: bfcffed5f1d774fe8addd391239a9e87, type: 2}
+  - {fileID: 11400000, guid: d3c4c4059fc7b4ef5a41a19f60c1b5fc, type: 2}

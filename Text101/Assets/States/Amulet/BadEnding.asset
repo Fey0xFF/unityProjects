@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: BadEnding
+  m_EditorClassIdentifier: 
+  storyText: 'That wasn''t it...
+
+
+    Your senses must be muddled. Perhaps you should have paid more attention to whatever
+    was going on with that spelling and bizarre message. "What did that note say again!?"
+    you manage to slip out.
+
+
+    The doppelganger rushes toward you hoisting you up in the air with unnatural strength.
+    It raises one of it''s morbidly twisted hands and rings it around your neck. With
+    a swift clench of it''s grip you feel you''re unable to breathe. Your hands flail
+    and try to assail the attack, though it''s futile at best.
+
+
+    Your eyes close and you feel your life drift away as the doppelganger roars in
+    victory.
+
+
+    1. Continue.'
+  nextStates:
+  - {fileID: 11400000, guid: 81b06d03ea80749ad93e239303e86573, type: 2}

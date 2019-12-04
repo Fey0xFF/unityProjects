@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: C6c-FaceDoor
+  m_EditorClassIdentifier: 
+  storyText: "The door up close is unsightly to see. It appears the door is somewhat
+    alive for what it could be an is in pain with the opening being tied back.\n\nLooking
+    through the opening and navigating your eyes through the darkness, you see a room
+    in the distance. A small narrow light suggests the path is longer than you'd like
+    to get through to. Pausing and weighing your options you can hear distant footsteps
+    in the path, shuffling about, and fidgeting. A whimpering of a young child can
+    be heard now and then.\n\n\"I don't seem to have any other option here do I...\"
+    you tell yourself.\n\nWhat do you do?\n\n1. Return. \n2. Go through the opening."
+  nextStates:
+  - {fileID: 11400000, guid: ccc2e1fbcca204185b05525dd8f420e3, type: 2}
+  - {fileID: 11400000, guid: b07402bc6424e4f6081a525d9b35ab31, type: 2}

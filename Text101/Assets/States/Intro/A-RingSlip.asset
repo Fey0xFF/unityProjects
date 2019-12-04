@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: A-RingSlip
+  m_EditorClassIdentifier: 
+  storyText: "Fool of a took! you shouldn't be putting on rings you don't know about!\n\nSlipping
+    on the ring you feel a great power come over you and can see the real intentions
+    of everything around you. You reckon you're a force that cannot be trifled with
+    anymore!\n\nSuddenly, there is a great eye looming above over you!\n\nYou tremble
+    in terror at the sight as the eye rushes toward you whispering terrible sounds.
+    \n\nYou try taking off the ring but it's no good. It doesn't budge! you look to
+    your hands and see your skin becoming translucent, almost wightish. You're definitely
+    not Frodo and don't have that hobbit resilience +1 to all things dark and terrible.
+    \n\nWith enough forcing you manage to slip the ring off. \n \n1. Return back to
+    the real story!"
+  nextStates:
+  - {fileID: 11400000, guid: d3c4c4059fc7b4ef5a41a19f60c1b5fc, type: 2}

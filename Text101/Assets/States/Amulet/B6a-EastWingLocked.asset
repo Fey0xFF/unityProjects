@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: B6a-EastWingLocked
+  m_EditorClassIdentifier: 
+  storyText: 'The East Wing is heavily damaged. Something caught fire rapidly here.
+    It looks to have begun in the center of the room on the flooring where an outline
+    of some kind of demonic symbol was drawn out. "A ceremony?" you wonder. More oddly
+    some of the floorboards that are burned away bear a similar grated look to your
+    cage. "It cannot be..." you mutter to yourself sharpening your eyes at the sight
+    of the metal.
+
+
+    Looking around you notice there are some scratches marked along of the walls that
+    look recently carved. Beneath the scratches you see a note laying along the floor.
+
+
+    Many of contents of this room are hard to distinguish. For a moment you hear what
+    sounds likea rusty wheelchair creak behind one of the curtains. You lean forward
+    slightly and peer around the curtain seeing a broken wheelchair, and much to your
+    relief nothing else.
+
+
+    Coming back to where you were you begin darting your gaze to each wall of the
+    room frantically! The door you entered from cannot be found. "This isn''t real!
+    none of it. It can''t be!" you mutter to yourself wearily.
+
+
+    Taking a deep breath you consider your options...
+
+
+    1. Examine the scratches.
+
+    2. Read the note.'
+  nextStates:
+  - {fileID: 11400000, guid: a8f09072c7a1148518e9e5e5bff00fc9, type: 2}
+  - {fileID: 11400000, guid: e702c1acf62d140ebbcc70022912ac6c, type: 2}

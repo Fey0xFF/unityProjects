@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: "C8b-Bu\x10rnedBody"
+  m_EditorClassIdentifier: 
+  storyText: 'Looking around the burn ward you can see most of the ground has now
+    faded away into the metal grated familiar floor you have seen before. While there
+    wasn''t a breeze before, the charred bits of ash are floating around the room
+    as if disturbed.
+
+
+    The figure now more partial than before remains in the distance.
+
+
+    An uneasy feeling passes as you hear infrequent footsteps now and then with no
+    discernable pattern, and a low but continuous generator buzzing in the background.
+
+
+    "I should probably make my way out of here now..." you weigh in to your thoughts.
+
+
+    1. Look toward the figure again.
+
+    2. Return to the gardened area.'
+  nextStates:
+  - {fileID: 11400000, guid: 601ec1f99372745229a66a86a91b03c1, type: 2}
+  - {fileID: 11400000, guid: 609ee2bc26bc24396b31dbc0b112ad82, type: 2}

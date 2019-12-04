@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: CX-GOMouth
+  m_EditorClassIdentifier: 
+  storyText: 'Pulling the ring now violently thrusts you forward into it''s gaping
+    mouth!
+
+
+    The rings contort into lidless eyes and the wreathe forms into snarling lips.
+    Your torso is now inward into the mouth! You catch your footing briefly and attempt
+    to step back but it is no good. The mouth has now sealed itself shut to your torso.
+
+
+    With a binding grip you feel the teeth of the door crushing your ribs as you scream
+    in terror seeing everything fade to black.
+
+
+    1. Game over.'
+  nextStates:
+  - {fileID: 11400000, guid: d0cd7a67fb41a40279950e5eeddfcdc6, type: 2}

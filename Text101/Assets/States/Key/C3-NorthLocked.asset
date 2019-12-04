@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: C3-NorthLocked
+  m_EditorClassIdentifier: 
+  storyText: 'You carefully move to the door intending not to trip over anything in
+    the dimly lit room.
+
+
+    As you reach for the doorknob you find the door firmly locked.
+
+
+    Walking back you hear a slight shuffle as if someone just moved in the room. Pausing
+    for a moment you wait to hear more but there is only silence.
+
+
+    "Hmm, must be my nerves still rattled." you assure yourself.
+
+
+    1. Return.'
+  nextStates:
+  - {fileID: 11400000, guid: fa3bbc5928e674b87b5b891535b6c2bb, type: 2}

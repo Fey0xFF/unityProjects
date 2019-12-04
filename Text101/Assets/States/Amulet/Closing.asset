@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: Closing
+  m_EditorClassIdentifier: 
+  storyText: "Thank you for playing!\n\nThe story continues in the next saga - and
+    what will happen then? do you really awaken and what became of everything you
+    experienced? How did you get there and why were you there?\n\nAll will be revealed...!
+    \n\nIf you haven't tried the other storyline yet, please do so. \n\nHope you enjoyed
+    the descent and ascent. If you failed to get the good ending, try once more. I
+    had a wonderful time writing this out for you. \n\nDid you find the ring?\n\n-Anthony\n\n1.
+    Play again!"
+  nextStates:
+  - {fileID: 11400000, guid: 3143deec0500a40319c334e98a84ab93, type: 2}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: C4b-BurnWard
+  m_EditorClassIdentifier: 
+  storyText: 'The gardened area is eerily still.
+
+
+    Looking around now however you notice the door that was previously barred up is
+    now free of it''s wooden barriers.
+
+
+    What do you do?
+
+
+    1. Ignite the burner to read the key.
+
+    2. Open the face like door.
+
+    3. Open the door to the burn ward.'
+  nextStates:
+  - {fileID: 11400000, guid: 81b972b4f8fd144a9bb01d022963f9ac, type: 2}
+  - {fileID: 11400000, guid: b783cf20a04e643fc87e99646ac075d2, type: 2}
+  - {fileID: 11400000, guid: 512ef3533028640c0a2bb3d1b4ddf039, type: 2}

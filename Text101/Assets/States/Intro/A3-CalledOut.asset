@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: A3-CalledOut
+  m_EditorClassIdentifier: 
+  storyText: 'Remaining still you scream out "Hello!" answered only by silence.
+
+
+    "Where am I!?" you scream out once more.
+
+
+    Nothing.
+
+
+    After a moment, in the distance beneath the grating you hear what can only be
+    described as an old wooden chair dragged across wooden boards. You shutter ever
+    so slightly.
+
+
+    1. Get up and look around.
+
+    2. Remain still a bit more and call out once again.'
+  nextStates:
+  - {fileID: 11400000, guid: d3c4c4059fc7b4ef5a41a19f60c1b5fc, type: 2}
+  - {fileID: 11400000, guid: 7eb069d68cd6c4e158f2a7f9bc0a16b9, type: 2}

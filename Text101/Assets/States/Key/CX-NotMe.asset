@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: CX-NotMe
+  m_EditorClassIdentifier: 
+  storyText: "You lift your fingers slowly across the page inking your thoughts.\n\n-It
+    wasn't me!\n\nAs you lift your hands away, the book slams shut with such force
+    that it gains some lift. Looking up you see a window you never noticed before.
+    Walking toward it you're caught by the scenic view outside. Great green rolling
+    pasture, with grey snow capped mountains in the distance. There's a gentle breeze
+    rustling the grass to and fro. \n\nYou hear a child calling your name out the
+    window slightly muffled behind the pane of glass. You can't quite make it out
+    but you know it's intended for you.\n\n\"Yes, that's right. I'm late!\" you suggest
+    to yourself rousing up your spirit. You open the window and look outside whe suddenly
+    you hear the door open behind you.\n\n1. Continue."
+  nextStates:
+  - {fileID: 11400000, guid: d0cd7a67fb41a40279950e5eeddfcdc6, type: 2}

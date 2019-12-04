@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: A5-KeyTaken
+  m_EditorClassIdentifier: 
+  storyText: "You reach for the key and feel the grating beneath you begin to rattle.\n\nThe
+    steps above begin to pick up faster in pace now running toward your direction.
+    \n\nYou continue reaching for it and grab the key. You hold it up to the light
+    for a moment to see more detail. Your attention is taken away suddenly when the
+    grating in front of you collapses taking the dresser and amulet with it.\n\n\"What's
+    happening!?\" you question to yourself. \"This can't be real!\" you fester over
+    the throught in fear. The grating beneath your feet unhinges to one side.\n\nGripping
+    the amulet tightly you leap upwards and manage to find your fingers gripping between
+    the metal grid pattern of the roof of the cage you're in.\n\nThe grated floor
+    tiles give away completely now and fall into the nothingness clanking against
+    one another.\n\nIn all the commotion you forgot the steps coming your way! you
+    look up and see a thick heavy leather boot come crashing down upon your fingers!\n\nReeling
+    in pain you feel your grip release and fall down into the abyss seeing the image
+    of the cage dwindling out of sight.\n\nYou let out something of a gutteral scream
+    of terror only to have the blackness drown out your sound and quickly cannot tell
+    whether you're still breathing or not. You fall a height you cannot determine
+    until you suddenly feel your head thud against something and lose conscious...\n\n1.
+    Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: fa3bbc5928e674b87b5b891535b6c2bb, type: 2}

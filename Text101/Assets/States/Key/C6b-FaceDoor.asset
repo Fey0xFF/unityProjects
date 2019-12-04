@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc956a0e408ea47bcb6e9dff3aa63940, type: 3}
+  m_Name: C6b-FaceDoor
+  m_EditorClassIdentifier: 
+  storyText: 'Approaching the door in caution you notice one of the pull rings has
+    twisted in a way that appears it is watching you...
+
+
+    What do you?
+
+
+    1. Return...
+
+    2. Try opening it?'
+  nextStates:
+  - {fileID: 11400000, guid: e9e0304a409284397ac0ad4422aef37d, type: 2}
+  - {fileID: 11400000, guid: be1ccfd7249784dc8a40c6360b6007b0, type: 2}
